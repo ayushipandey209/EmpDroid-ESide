@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013297520557",
+    "project_id": "empdroid-eside",
+    "storage_bucket": "empdroid-eside.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013297520557:android:ffb3bd5466013e9deb8b24",
+        "android_client_info": {
+          "package_name": "com.empdroid.eside"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWt2BtMzJ5fhNx-JP5H3TAl2pYmMO5-DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
